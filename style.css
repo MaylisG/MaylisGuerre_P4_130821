@@ -956,6 +956,14 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+       
+    }
+
+    .tc-white{
+        font-size: 15px;
+    }
+    .white{
+        font-size: 13px;
     }
     .b-parallax {
         background-attachment: scroll;
