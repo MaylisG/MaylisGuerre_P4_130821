@@ -677,6 +677,7 @@ a {
 .tight-width-whitespace {
   
     margin: auto auto auto auto;
+    margin-bottom: 20px;
 }
 
 .presentation-entete{
@@ -825,12 +826,12 @@ h4 {
 }
 
 .tc-white {
-    color: black;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color:black!important;
 }
 
 .btn-atomic-tangerine:hover {
